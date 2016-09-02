@@ -1,0 +1,3 @@
+{
+  "patch.py::TestAccount::test_get_current_balance_returns_data_correctly": true
+}
